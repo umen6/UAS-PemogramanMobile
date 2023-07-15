@@ -2,6 +2,7 @@
 
 <h1>Nama: Ujang Maman Suherman</h1>
 <h1>Kelas: TI.20.D.1</h1>
+<h1>NIM: 312010614</h1>
 <h1>Matkul : Pemograman Mobile</h1>
 1. layout
 
