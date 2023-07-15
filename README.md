@@ -5,4 +5,4 @@
 <h1>Matkul : Pemograman Mobile</h1>
 1. layout
 activity_form.xml
-![alt text](https://github.com/umen6/UAS-PemogramanMobile/blob/main/app/src/main/res/activityMain.png?raw=true)
+![image](https://github.com/umen6/UAS-PemogramanMobile/blob/main/app/src/main/res/activityMain.png)
