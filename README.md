@@ -17,3 +17,18 @@
      <br>
 ![image](https://github.com/umen6/UAS-PemogramanMobile/blob/main/app/src/main/res/Detail.png)
   
+2. menu
+   
+ - activity_main.xml
+     <br>
+![image](https://github.com/umen6/UAS-PemogramanMobile/blob/main/app/src/main/res/Activitymain.png)
+
+ - activity_main_action.xml
+     <br>
+    ![image](https://github.com/umen6/UAS-PemogramanMobile/blob/main/app/src/main/res/Activitymainaction.png)
+
+ - form_handphone.xml
+     <br>
+   ![image](https://github.com/umen6/UAS-PemogramanMobile/blob/main/app/src/main/res/DetailHP.png)
+
+
